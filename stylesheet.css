@@ -1,0 +1,54 @@
+body {
+	font-family: 'Arial', sans-serif;
+	background: url(lines1.jpg);
+}
+
+.container {
+	width: 800px;
+	margin: 40px auto 60px;
+}
+
+.name {
+	color: white;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: right;
+	padding-top: 24px;
+	padding-right: 24px;
+	background-image: url(photo1.jpg);
+	background-repeat: no-repeat;
+	background-color: #585858;
+	height: 275px;
+	border-bottom: 1px solid #585858;
+}
+
+.address {
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.company {
+	font-size: 18px;
+	font-weight: bold;
+	text-align: bottom;
+	border-bottom: 1px solid #585858;
+}
+
+.position {
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.date {
+	float: right;
+	font-size: 12px;
+}
+
+.projects {
+	font-size: 12px;
+}
+
+ul {
+    list-style: square;
+    padding-left: 10px;
+}​

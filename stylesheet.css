@@ -1,4 +1,4 @@
-body {
+﻿body {
 	font-family: 'Arial', sans-serif;
 	background: url(lines1.jpg);
 }
@@ -50,5 +50,5 @@ body {
 
 ul {
     list-style: square;
-    padding-left: 14px;
+    padding-left: 16px;
 }​
